@@ -1,5 +1,3 @@
-Claro, Matheus! Aqui está um exemplo de README para um projeto de estudos usando .NET 9, Swagger, uma API de filmes, e containers Docker — inspirado em projetos da Alura:
-
 🎬 Projeto de Estudo: API de Filmes com .NET 9, Docker e Swagger
 Este projeto é uma aplicação de estudo desenvolvida com base nos cursos da Alura. Ele apresenta uma API REST de filmes utilizando .NET 9, com documentação interativa via Swagger e containerização via Docker.
 📚 Tecnologias Utilizadas
